@@ -1,6 +1,5 @@
 # Hi, I'm José Carlos.
 
-- 🌱 I am currently learning to speak in english.
 - :speech_balloon: Currently working on AI projects
 
 I'm a technology lover and I'm always willing to collaborate and learn.
